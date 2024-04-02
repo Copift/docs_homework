@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 import requests
 
-from Weather import Weather
+from weather import Weather
 
 """                  OPENWEATHER
 Обратите внимание, что запросы API по названию города ,

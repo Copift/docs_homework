@@ -2,6 +2,11 @@
 
 # -- Project information
 
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath('../../'))
+
 project = 'test_Copift_project'
 copyright = 'Copift'
 author = 'Copift'
